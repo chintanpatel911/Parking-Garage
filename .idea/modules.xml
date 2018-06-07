@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code/ValetParkingAssistant-App-Folder/ValetParkingAssistant/ValetParkingAssistant.iml" filepath="$PROJECT_DIR$/Code/ValetParkingAssistant-App-Folder/ValetParkingAssistant/ValetParkingAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt.iml" filepath="$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/ValetParkingAssistant/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/ValetParkingAssistant/libs/mysql-connector-java-3.0.17-ga-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

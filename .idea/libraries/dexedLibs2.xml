@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dexedLibs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/bin/dexedLibs/android-support-v4-8339b3f916a596ee84b8f7076a19301d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/bin/dexedLibs/jtds-1.2.5-b578af2827afd46e14f34cb545b9a377.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/bin/dexedLibs/mysql-connector-java-3.0.17-ga-bin-37820a714852b58386721273cee9807f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/bin/dexedLibs/android-support-v4-7cc84177174b89e6eef71cc3d4356a27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/bin/dexedLibs/jtds-1.2.5-1ad2631d438594a86c155bf913b4cf7c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/ValetParkingAssistantInt/ValetParkingAssistantInt/bin/dexedLibs/android-support-v4-69f03862380ea41d21644e214ad31714.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
